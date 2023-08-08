@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Full Stack web development**
 
-- 👨‍💻 All of my projects are available at [https://lazrakahmed.me/my-portfolio/](https://lazrakahmed.me/my-portfolio/)
+- 👨‍💻 All of my projects are available at [https://lazrakahmed.me/portfolio/](https://lazrakahmed.me/mportfolio/)
 
 - 📫 How to reach me **lazrak.professional@gmail.com**
 
-- 📄 Know about my experiences [https://laze03.github.io/my-portfolio/CV_LAZRAK_Ahmed.pdf](https://laze03.github.io/my-portfolio/CV_LAZRAK_Ahmed.pdf)
+- 📄 Know about my experiences [https://lazrakahmed.me/portfolio/CV_LAZRAK_Ahmed.pdf](https://lazrakahmed.me/portfolio/CV_LAZRAK_Ahmed.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
