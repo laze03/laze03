@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full Stack web development**
 
-- 👨‍💻 All of my projects are available at [https://laze03.github.io/my-portfolio/](https://laze03.github.io/my-portfolio/)
+- 👨‍💻 All of my projects are available at [https://lazrakahmed.me/my-portfolio/](https://lazrakahmed.me/my-portfolio/)
 
 - 📫 How to reach me **lazrak.professional@gmail.com**
 
